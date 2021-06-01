@@ -1,0 +1,54 @@
+.body_background 
+{
+    background-image: url("img.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+body
+{
+  color: white;
+}
+span
+{
+  font-size: 30px;
+}
+
+h3 {
+  font-family: fantasy;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resul_meaning 
+{
+  color: rgb(135, 85, 228);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 57pt;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+p {
+ color: rgb(36, 22, 231);
+}
+
+label{
+  font-size: 20px;
+  background-color: rgb(137, 184, 238);
+  color:rgb(245, 217, 217);
+ }
+ 
+ label:hover{
+     background-color: rgb(63, 23, 241);
+ 
+ }
